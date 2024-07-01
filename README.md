@@ -22,6 +22,7 @@ This is a work hover tracker built using React. It allows users to enter their s
 
 - **Frontend:**
   - React
+  - Tailwind CSS
 
 ## Installation
 
