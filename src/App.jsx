@@ -20,8 +20,6 @@ function App() {
 
   useEffect(() => {
     localStorage.setItem("timeEntries", JSON.stringify(timeEntries))
-
-    console.log(timeEntries)
   }, [timeEntries])
 
   const handleCalculateTime = () => {
